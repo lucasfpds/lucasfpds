@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <div>
   <ul>
    <li> 
-    I am a Full Stack Web Development student at <a href="https://github.com/cubos-academy">Cubos Academy</a> and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
+    I am a Full Stack Web Development student at  and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
    </li>
   </ul>
  </div>
