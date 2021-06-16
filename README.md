@@ -39,8 +39,14 @@ Here are some ideas to get you started:
 
 ## 🌱 What do I do
 ##
--)   I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
-
+ <div>
+  <ul>
+   <li> 
+    I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
+   </li>
+  </ul>
+ </div>
+##
 ## 📫 How to contact me
 - <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Linkedin" width="16"/> Linkedin - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 <!-- - <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Lucas Fernandes](https://discord.gg/ftab4W6Mnj) -->
