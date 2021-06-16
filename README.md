@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 ## Welcome to my GitHub, I hope you like it.
+<div>
 [![Lucas Fernandes github stats](https://github-readme-stats.vercel.app/api?username=lucasfpds&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/lucasfpds)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfpds&layout=compact&langs_count=10&theme=radical)](https://github.com/lucasfpds)
-
+</div>
 ## 🌱 What do I do
 - I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
