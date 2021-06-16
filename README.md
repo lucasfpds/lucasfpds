@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Lucas-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  
+  </div>
   
 
 </div>
