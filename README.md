@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 🌱 What do I do
 ##
-- Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
+-  Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
 ## 📫 How to contact me
 - <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Linkedin" width="16"/> Linkedin - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
