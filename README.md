@@ -32,9 +32,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Lucas-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   </div>
-  
 
-</div>
+
+##
+
+
 ## 🌱 What do I do
 - I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
