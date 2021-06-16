@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 What do I do
+##
 - I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
 ## 📫 How to contact me
