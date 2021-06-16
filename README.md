@@ -33,18 +33,13 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Lucas-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   </div>
- 
- 
+  
 ##
-
 
 ## 🌱 What do I do
  
 - I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
- 
-##
- 
  
 ## 📫 How to contact me
 - <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Linkedin" width="16"/> Linkedin - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
