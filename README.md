@@ -47,6 +47,3 @@ Here are some ideas to get you started:
 - <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 <!-- - <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Lucas Fernandes](https://discord.gg/ftab4W6Mnj) -->
 - <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
-
-
-https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg
