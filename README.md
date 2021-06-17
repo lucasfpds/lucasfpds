@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
  
 ## 📫 How to contact me
-- <img src="<img src="https://img.icons8.com/color/480/000000/linkedin-2--v2.png"/>" alt="Linkedin" width="16"/> Linkedin - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
+- <img src="https://wwww.img.icons8.com/color/480/000000/linkedin-2--v2.png" alt="Linkedin" width="16"/> Linkedin - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 <!-- - <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Lucas Fernandes](https://discord.gg/ftab4W6Mnj) -->
 - <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" width="16"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
 
