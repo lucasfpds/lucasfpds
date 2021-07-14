@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
  
 ## 📫 How to contact me
-- <img src="https://thumbs.gfycat.com/NegligiblePaltryCorydorascatfish-small.gif" alt="E-mail" width="25"/> E-Mail - [Lucas Fernandes](lucas-fps@hotmail.com)<br>
+- <img src="https://lh4.googleusercontent.com/proxy/iTYhFGRWX8ZB9Rd9u4bhlptF_HXo3wNP8ILgLQKbuapK5AlgGO_griyl_-IZg53PsGa9edMOsLv0aeHCU45xreqdTGdlfDU8HtbzNhfmZabQBhfI-lLHreyT=s0-d" alt="E-mail" width="25"/> E-Mail - [Lucas Fernandes](lucas-fps@hotmail.com)<br>
 - <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 - <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
