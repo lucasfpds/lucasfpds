@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  
 ## 📫 How to contact me
 - <img src="https://i.pinimg.com/originals/7e/69/ec/7e69eca344ca1465da94d698ded08e8e.gif" alt="E-mail" width="25"/> E-Mail - [Lucas Fernandes](lucas-fps@hotmail.com)
-- <br>
+<br>
 - <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 <!-- - <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Discord" width="16"/> Discord - [Lucas Fernandes](https://discord.gg/ftab4W6Mnj) -->
 - <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
