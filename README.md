@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 🌱 What do I do
  
-- I am a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
+- I'm an intern in software development at [Grupo Boticario Franchising](https://www.linkedin.com/company/grupo-boticario/mycompany/), working in the management of digital products with a focus on the Financial and Legal Back Office. I am also a Full Stack Web Development student at [Cubos Academy](https://github.com/cubos-academy) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
  
 ## 📫 How to contact me
