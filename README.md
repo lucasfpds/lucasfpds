@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 
 
-## My Evolution Through Projects
+## My Evolution By Projects
 - ### DinDin<br>
 stack: Html | Css | React | JavaScript | NodeJS<br>
 text: Backend API consumption application reading, creating, updating and deleting data in a database, always handling all data during these processes. The application uses various React concepts, all components and functionality are built from scratch.<br>
