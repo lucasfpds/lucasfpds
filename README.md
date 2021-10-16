@@ -45,86 +45,89 @@ Here are some ideas to get you started:
 
 
 
-
-
-- DinDin
-##tack: Html | Css | React | JavaScript | NodeJS
+DinDin<br>
+stack: Html | Css | React | JavaScript | NodeJS<br>
 text: Backend API consumption application reading, creating, updating and deleting data in a database, always handling all data during these processes. The application uses various React concepts, all components and functionality are built from scratch.<br>
 [link](https://app-dindin-fe.herokuapp.com/)<br>
-[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/3%C2%BA%20M%C3%B3dulo/16_front-integral-desafio-m03)
+[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/3%C2%BA%20M%C3%B3dulo/16_front-integral-desafio-m03)<br>
 
 
-## REST API Mercado
-stack: JavaScript | NodeJS | Express | JWT | BCRYPT | PostgreSQL
+REST API Mercado<br>
+stack: JavaScript | NodeJS | Express | JWT | BCRYPT | PostgreSQL<br>
 text: The project aims to build a REST API where it would be possible to register users for a store, and these users could login to register, view, edit and delete products in a relational database.<br>
 [repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/3%C2%BA%20M%C3%B3dulo/15_back-integral-desafio-m03)<br>
 
 
-## Illumine
-stack: Html | Css | JavaScript | Bootstrap
-text: Landing page for a skin care products website. Used Bootstrap, SASS and responsiveness.
+Illumine<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
+text: Landing page for a skin care products website. Used Bootstrap, SASS and responsiveness.<br>
 [link](https://illumine.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/illumine)<br>
 
-##- Cubos Flix
-stack: Html | Css | JavaScript
-text: The goal was to create an application for a streaming service (think Netflix). Through the application, see the latest releases, search for movies, synopses and trailers. The content of this project addressed the propagation of events and<br> changing properties with events through the DOM, forms, asynchronously consuming API requests, and dynamic HTML and CSS.<br>
-[link](https://cubos-flix.vercel.app/)
-[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/2%C2%BA%20M%C3%B3dulo/14_desafio-frontend-modulo-02-integral)
+
+Cubos Flix<br>
+stack: Html | Css | JavaScript<br>
+text: The goal was to create an application for a streaming service (think Netflix). Through the application, see the latest releases, search for movies, synopses and trailers. The content of this project addressed the propagation of events and changing properties with events through the DOM, forms, asynchronously consuming API requests, and dynamic HTML and CSS.<br>
+[link](https://cubos-flix.vercel.app/)<br>
+[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/2%C2%BA%20M%C3%B3dulo<br>/14_desafio-frontend-modulo-02-integral)<br>
 
 
-## REST API Banco
-stack: JavaScript | NodeJS | Express
+REST API Banco<br>
+stack: JavaScript | NodeJS | Express<br>
 text: REST API using configuration of routes, controllers, frameworks and modules for NodeJS. All using asynchronous programming, external api integration and JSON and Swagger encoding.<br>
-[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/2%C2%BA%20M%C3%B3dulo<br>/15_desafio-backend-modulo-02-sistema-bancario)
+[repo](https://github.com/lucasfpds/repoExerCubosAcademy/tree/master/2%C2%BA%20M%C3%B3dulo<br>/15_desafio-backend-modulo-02-sistema-bancario)<br>
 
-## Clone Spotify
-stack: Html | Css | JavaScript | Bootstrap
+
+Clone Spotify<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
 text: Using Bootstrap I made a mirror of the old Spotify page with responsiveness, with the help of boostrap I made use of the carousel and button collapse besides responsiveness.<br>
 [link](https://clone-spotify-alpha.vercel.app/<br>
-[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/07.2.Projeto%20Spotfy-Bootstrap%204%20%26%20Responsividade)
+[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/07.2.Projeto%20Spotfy-Bootstrap%204%20%26%20Responsividade)<br>
 
 
-## Finans
-stack: Html | Css | JavaScript | Bootstrap
-text: In this project the construction aimed to apply responsiveness using media queries and some CSS tools and also Bootstrap.
+Finans<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
+text: In this project the construction aimed to apply responsiveness using media queries and some CSS tools and also Bootstrap.<br>
 [link](https://finans-jade.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/07.1.Projeto%20finans-Bootstrap%204%20%26%20Responsividade)<br>
 
 
-## App Calculadora
-stack: Html | Css | JavaScript | Bootstrap
-text: This was a simple calculator application using simple JS and DOM techniques on the front combined with the use of programming logic.<br>
+App Calculadora<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
+text: This was a simple calculator application using simple JS and DOM techniques on the front combined with the use of<br> programming logic.<br>
 [link](https://app-calculadora.vercel.app/)<br>
-[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/08.1.Projeto%20App%20Calculadora-JavaScript)
+[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/08.1.Projeto%20App%20Calculadora-JavaScript)<br>
 
 
-## Game Mata Mosquito
-stack: Html | Css | JavaScript | Bootstrap
-text: This application aimed to build a mini game only using JS, HTML, DOM and CSS with a very clean and very functional code.
+
+Game Mata Mosquito<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
+text: This application aimed to build a mini game only using JS, HTML, DOM and CSS with a very clean and very functional code.<br>
 [link](https://game-mata-mosquito-89g2f9aj0-lucasfpds.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/08.2.Projeto%20Game%20Mata%20Mosquito-Java%20Script)<br>
 
 
-## Orçamento Pessoal
-stack: Html | Css | JavaScript | Bootstrap
+
+Orçamento Pessoal<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
 text: This application would simulate a personal expenses controller being able to create and delete registered expenses. JS, ES6, POO, HTML and CSS were used.<br>
 [link](https://app-orcamento-pessoal-jfvib9ao8-lucasfpds.vercel.app/)<br>
-[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/09.Projeto%20App%20Or%C3%A7amento%20Pessoal-ECMAScript%206)
+[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/09.Projeto%20App%20Or%C3%A7amento%20Pessoal-ECMAScript%206)<br>
 
 
-## Museu Nacional
-stack: Html | Css | JavaScript | Bootstrap
-text: This project aimed to build a layout such as styling tables and forms, page markup, and liquid layout with CSS and HTML.
+Museu Nacional<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
+text: This project aimed to build a layout such as styling tables and forms, page markup, and liquid layout with CSS and HTML.<br>
 [link](https://museu-nacional-six.vercel.app/)<br>
-[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/06<br>.Projeto%20Museu%20Nacional-HTML5%20e%20CSS3%20Recursos%20Especiais)
+[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/06<br>.Projeto%20Museu%20Nacional-HTML5%20e%20CSS3%20Recursos%20Especiais)<br>
 
 
-## Chalé Hotel
-stack: Html | Css | JavaScript | Bootstrap
+
+Chalé Hotel<br>
+stack: Html | Css | JavaScript | Bootstrap<br>
 text: This project aimed to build a front page with a fluid layout. I used table and form styling, page markup, and liquid layout with CSS and HTML.<br>
 [link](https://chale-hotel.vercel.app/)<br>
-[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/05.2.Projeto%20Chal%C3%A9%20Hotel-CSS3%20AVAN%C3%87ADO)
+[repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/05.2.Projeto%20Chal%C3%A9%20Hotel-CSS3%20AVAN%C3%87ADO)<br>
 
  
 ## 📫 How to contact me
