@@ -44,8 +44,15 @@ Here are some ideas to get you started:
 - I'm an intern in software development at [Grupo Boticario Franchising](https://www.grupoboticario.com.br/pt/Paginas/Inicial.aspx), working in the management of digital products with a focus on the Financial and Legal Back Office. I am also a Full Stack Web Development student at [Cubos Academy](https://www.cubos.academy/) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
 
+## 📫 How to contact me
+<!-- - <img src="https://static.wixstatic.com/media/1ab857_fb228e89ac9740d392337e22380f376b~mv2.gif" alt="E-mail" width="25"/> E-Mail - [lucas-fps@hotmail.com]()<br> -->
+- <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
+- <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
 
 
+
+
+## My Evolution Through Projects
 - ### DinDin<br>
 stack: Html | Css | React | JavaScript | NodeJS<br>
 text: Backend API consumption application reading, creating, updating and deleting data in a database, always handling all data during these processes. The application uses various React concepts, all components and functionality are built from scratch.<br>
@@ -129,10 +136,3 @@ text: This project aimed to build a front page with a fluid layout. I used table
 [link](https://chale-hotel.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/05.2.Projeto%20Chal%C3%A9%20Hotel-CSS3%20AVAN%C3%87ADO)<br>
 
-
-
-
-## 📫 How to contact me
-<!-- - <img src="https://static.wixstatic.com/media/1ab857_fb228e89ac9740d392337e22380f376b~mv2.gif" alt="E-mail" width="25"/> E-Mail - [lucas-fps@hotmail.com]()<br> -->
-- <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
-- <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
