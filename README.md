@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🌱 What do I do
  
--I'm an intern in software development at [Grupo Boticario Franchising](https://www.grupoboticario.com.br/pt/Paginas/Inicial.aspx), I work in the Structuring Digital Products Management | Financial/Legal Chapter. Member of the stores and e-comm squad. Main responsible in this squad for front-end development. We help build applications used by all 900+ franchisees.
+-I'm an intern in software development at [Grupo Boticario Franchising](https://www.grupoboticario.com.br/pt/Paginas/Inicial.aspx), I work in the Structuring Digital Products Management | Financial/Legal Chapter. Member of the stores and e-comm squad. Responsible in this squad for front-end development. We help build applications used by all 900+ franchisees.
  I am also a Full Stack Web Development student at [Cubos Academy](https://www.cubos.academy/) and a Systems Analysis and Development student at [Joaquim Nabuco College](https://www.uninabuco.digital/).
 
 
