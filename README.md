@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!-- - <img src="https://static.wixstatic.com/media/1ab857_fb228e89ac9740d392337e22380f376b~mv2.gif" alt="E-mail" width="25"/> E-Mail - [lucas-fps@hotmail.com]()<br> -->
 - <img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="25"/> LinkedIn - [Lucas Fernandes](https://www.linkedin.com/in/lfpds/)
 - <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
-- <img  src="https://i.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.webp" width="25"/> Whatsapp - [Lucas Fernandes](https://t.me/Lucasfps)
+- <img  src="https://i.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.webp" width="25"/> Whatsapp - [Lucas Fernandes](https://api.whatsapp.com/send?phone=5582981728109)
 
 
 <br><br>
