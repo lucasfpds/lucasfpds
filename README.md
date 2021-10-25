@@ -90,7 +90,7 @@ text: REST API using configuration of routes, controllers, frameworks and module
 - ### Clone Spotify<br>
 Stacks: Html | Css | JavaScript | Bootstrap<br>
 text: Using Bootstrap I made a mirror of the old Spotify page with responsiveness, with the help of boostrap I made use of the carousel and button collapse besides responsiveness.<br>
-[link](https://clone-spotify-alpha.vercel.app/<br>
+[link](https://clone-spotify-alpha.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/07.2.Projeto%20Spotfy-Bootstrap%204%20%26%20Responsividade)<br>
 
 
