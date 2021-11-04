@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - <img  src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="25"/> Telegram - [Lucas Fernandes](https://t.me/Lucasfps)
 - <img  src="https://i.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.webp" width="25"/> Whatsapp - [Lucas Fernandes](https://api.whatsapp.com/send?phone=5582994012061)
 
-
+<!-- 
 <br><br>
 ## My Evolution Through Projects
 - ### DinDin<br>
@@ -136,3 +136,4 @@ Stacks: Html | Css | JavaScript | Bootstrap<br>
 This project aimed to build a front page with a fluid layout. I used table and form styling, page markup, and liquid layout with CSS and HTML.<br>
 [link](https://chale-hotel.vercel.app/)<br>
 [repo](https://github.com/lucasfpds/primeirosProjetos/tree/master/05.2.Projeto%20Chal%C3%A9%20Hotel-CSS3%20AVAN%C3%87ADO)<br>
+ -->
