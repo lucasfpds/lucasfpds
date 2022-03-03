@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
